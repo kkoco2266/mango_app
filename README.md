@@ -24,7 +24,7 @@ This is a web application that detects damages on mangoes using a TensorFlow mod
 
 ```bash
 git clone https://github.com/your-username/mango-damage-detection.git
-cd mango-damage-detection
+cd mango_app
 ```
 ### Set up a virtual environment and activate it
 
